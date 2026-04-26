@@ -1,0 +1,486 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_LINX_BAT-HLD-012-SMT'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'L2:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'E2:2450AT18A0100001E:XCVR_2450AT18A0100001E'.
+Info: Processing symbol 'BT2:Battery:BatteryHolder_LINX_BAT-HLD-012-SMT'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'TP2:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP3:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP4:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP5:TestPoint:TestPoint_Pad_D1.0mm'.
+Info: Processing symbol 'TP6:Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm'.
+Info: Processing symbol 'U1:ICM-20649:QFN40P300X300X95-24N'.
+Info: Total warnings: 13, errors: 0.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-363_SC-70-6'.
+Info: Processing symbol 'U4:CC2640R2FRSMR:QFN40P400X400X100-33N'.
+Info: Processing symbol 'Y3:Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm'.
+Info: Processing symbol 'Y4:Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm'.
+Info: Processing symbol 'Z2:2450BM14G0011T:BALUN_2450BM14G0011T'.
+Changed REF** reference designator to BT2.
+Changed BT2 value from BatteryHolder_LINX_BAT-HLD-012-SMT to CR1632.
+Updated BT2 symbol association from  to /70fcc3a6-4ca9-42c5-a22c-defeac49b990.
+Updated BT2 fields.
+Updated BT2 sheetname to '/'.
+Updated BT2 sheetfile to 'sMouthguard01.kicad_sch'.
+Connected BT2 pin 2 to GND.
+Connected BT2 pin 1 to Net-(BT1-+).
+Connected BT2 pin 1 to Net-(BT1-+).
+Added C3 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0402_1005Metric to 0.1uF.
+Updated C3 symbol association from  to /4c94fecd-2bbc-43c0-93a4-13074a956d49.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Add net VBAT.
+Connected C3 pin 2 to VBAT.
+Connected C3 pin 1 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0402_1005Metric to 0.1uF.
+Updated C4 symbol association from  to /2dd60377-75fd-45ea-af7c-2ffcf9a9ce59.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 2 to VBAT.
+Connected C4 pin 1 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0402_1005Metric to 0.1uF.
+Updated C5 symbol association from  to /a1c53e3c-9545-452f-8af5-71c4fd660b06.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Add net Net-(U1-REGOUT).
+Connected C5 pin 2 to Net-(U1-REGOUT).
+Connected C5 pin 1 to GND.
+Added C7 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0402_1005Metric to 10uF.
+Updated C7 symbol association from  to /5d9c5810-9d65-444b-850c-af4a30f68d7d.
+Updated C7 fields.
+Updated C7 sheetname to '/'.
+Updated C7 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Add net Net-(U3-VOUT).
+Connected C7 pin 2 to Net-(U3-VOUT).
+Connected C7 pin 1 to VBAT.
+Added C15 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C15.
+Changed C15 value from C_0402_1005Metric to 0.1uF.
+Updated C15 symbol association from  to /92b52196-3a3a-4d5f-9005-b57506f7cb36.
+Updated C15 fields.
+Updated C15 sheetname to '/'.
+Updated C15 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C15 footprint filters to 'C_*'.
+Connected C15 pin 1 to GND.
+Add net Net-(U4-~{RESET_N}).
+Connected C15 pin 2 to Net-(U4-~{RESET_N}).
+Added C16 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C16.
+Changed C16 value from C_0402_1005Metric to 10uF.
+Updated C16 symbol association from  to /dfb41a1f-914d-4483-915e-29b2415ba5b1.
+Updated C16 fields.
+Updated C16 sheetname to '/'.
+Updated C16 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C16 footprint filters to 'C_*'.
+Add net VDDR.
+Connected C16 pin 2 to VDDR.
+Connected C16 pin 1 to GND.
+Added C17 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C17.
+Changed C17 value from C_0402_1005Metric to 10uF.
+Updated C17 symbol association from  to /819dddf1-39b2-4c0b-9d16-89e5bb508e48.
+Updated C17 fields.
+Updated C17 sheetname to '/'.
+Updated C17 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C17 footprint filters to 'C_*'.
+Connected C17 pin 1 to GND.
+Add net Net-(U4-DCOUPL).
+Connected C17 pin 2 to Net-(U4-DCOUPL).
+Added C18 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C18.
+Changed C18 value from C_0402_1005Metric to 10uF.
+Updated C18 symbol association from  to /866a7f70-0a39-4379-ad41-0d67cb11e659.
+Updated C18 fields.
+Updated C18 sheetname to '/'.
+Updated C18 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C18 footprint filters to 'C_*'.
+Connected C18 pin 1 to GND.
+Add net 3.0V.
+Connected C18 pin 2 to 3.0V.
+Added C19 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C19.
+Changed C19 value from C_0402_1005Metric to 2.0pF.
+Updated C19 symbol association from  to /9385b02d-e3fc-4ed1-a724-e0f69c0fc3f7.
+Updated C19 fields.
+Updated C19 sheetname to '/'.
+Updated C19 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C19 footprint filters to 'C_*'.
+Add net Net-(U4-X32K_Q1).
+Connected C19 pin 1 to Net-(U4-X32K_Q1).
+Connected C19 pin 2 to GND.
+Added C20 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C20.
+Changed C20 value from C_0402_1005Metric to 2.0pF.
+Updated C20 symbol association from  to /8072bcda-8716-4f44-8111-8f7affd00598.
+Updated C20 fields.
+Updated C20 sheetname to '/'.
+Updated C20 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C20 footprint filters to 'C_*'.
+Add net Net-(U4-X32K_Q2).
+Connected C20 pin 2 to Net-(U4-X32K_Q2).
+Connected C20 pin 1 to GND.
+Added C21 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C21.
+Changed C21 value from C_0402_1005Metric to DNM.
+Updated C21 symbol association from  to /0407debf-2b56-4833-8c5d-ef75a32da194.
+Updated C21 fields.
+Updated C21 sheetname to '/'.
+Updated C21 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C21 footprint filters to 'C_*'.
+Add net Net-(U4-X24M_N).
+Connected C21 pin 1 to Net-(U4-X24M_N).
+Connected C21 pin 2 to GND.
+Added C22 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C22.
+Changed C22 value from C_0402_1005Metric to DNM.
+Updated C22 symbol association from  to /45d793c5-f890-4303-989c-82bb2a28d6f1.
+Updated C22 fields.
+Updated C22 sheetname to '/'.
+Updated C22 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C22 footprint filters to 'C_*'.
+Add net Net-(U4-X24M_P).
+Connected C22 pin 1 to Net-(U4-X24M_P).
+Connected C22 pin 2 to GND.
+Added C23 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C23.
+Changed C23 value from C_0402_1005Metric to DNP.
+Updated C23 symbol association from  to /ded0db53-f57e-43b5-856d-a449f45b0973.
+Updated C23 fields.
+Updated C23 sheetname to '/'.
+Updated C23 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C23 footprint filters to 'C_*'.
+Add net Net-(Z2-UNBALANCED_PORT).
+Connected C23 pin 1 to Net-(Z2-UNBALANCED_PORT).
+Connected C23 pin 2 to GND.
+Added C24 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C24.
+Changed C24 value from C_0402_1005Metric to DNP.
+Updated C24 symbol association from  to /e27ce048-18bb-4d26-8399-3c1691d4a84a.
+Updated C24 fields.
+Updated C24 sheetname to '/'.
+Updated C24 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated C24 footprint filters to 'C_*'.
+Add net Net-(C24-Pad1).
+Connected C24 pin 1 to Net-(C24-Pad1).
+Connected C24 pin 2 to GND.
+Added E2 (footprint '2450AT18A0100001E:XCVR_2450AT18A0100001E').
+Changed REF** reference designator to E2.
+Changed E2 value from XCVR_2450AT18A0100001E to 2450AT18A0100001E.
+Updated E2 symbol association from  to /7dd5798d-9644-4080-8a53-bd31361c7380.
+Updated E2 fields.
+Updated E2 sheetname to '/'.
+Updated E2 sheetfile to 'sMouthguard01.kicad_sch'.
+Connected E2 pin 1 to Net-(C24-Pad1).
+Added L2 (footprint 'Inductor_SMD:L_0603_1608Metric').
+Changed REF** reference designator to L2.
+Changed L2 value from L_0603_1608Metric to 10uH.
+Updated L2 symbol association from  to /fce84037-5a39-4bc1-bac1-eb1267f5f230.
+Updated L2 fields.
+Updated L2 sheetname to '/'.
+Updated L2 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated L2 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Add net Net-(U4-DCDC_SW).
+Connected L2 pin 1 to Net-(U4-DCDC_SW).
+Connected L2 pin 2 to VDDR.
+Added R2 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0402_1005Metric to 10kOhm.
+Updated R2 symbol association from  to /ed087754-5dd6-4422-928e-ffe23eb87202.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Add net Net-(R2-Pad1).
+Connected R2 pin 1 to Net-(R2-Pad1).
+Connected R2 pin 2 to Net-(U4-~{RESET_N}).
+Added R6 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0402_1005Metric to 1 Ohm.
+Updated R6 symbol association from  to /0541df49-4713-4989-a887-aa2dbe4870e8.
+Updated R6 fields.
+Updated R6 sheetname to '/'.
+Updated R6 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Add net Net-(U3-VIN).
+Connected R6 pin 1 to Net-(U3-VIN).
+Connected R6 pin 2 to Net-(BT1-+).
+Added R7 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0402_1005Metric to 2.2kOhm.
+Updated R7 symbol association from  to /ba5851ef-8e67-4c39-ace6-a9e0fa2dc875.
+Updated R7 fields.
+Updated R7 sheetname to '/'.
+Updated R7 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Add net /I2C_SCL.
+Connected R7 pin 1 to /I2C_SCL.
+Add net Net-(U4-DIO_6).
+Connected R7 pin 2 to Net-(U4-DIO_6).
+Added R8 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0402_1005Metric to 2.2kOhm.
+Updated R8 symbol association from  to /b6992d37-a830-4471-b840-f0b8603dba3b.
+Updated R8 fields.
+Updated R8 sheetname to '/'.
+Updated R8 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Add net /I2C_SDA.
+Connected R8 pin 1 to /I2C_SDA.
+Add net Net-(U4-DIO_5).
+Connected R8 pin 2 to Net-(U4-DIO_5).
+Added BT1 (footprint 'Battery:BatteryHolder_LINX_BAT-HLD-012-SMT').
+Added R9 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0402_1005Metric to 0Ohm.
+Updated R9 symbol association from  to /7ec1ad0b-085c-446f-95df-8a2438c30953.
+Updated R9 fields.
+Updated R9 sheetname to '/'.
+Updated R9 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated R9 footprint filters to 'R_*'.
+Connected R9 pin 2 to Net-(C24-Pad1).
+Connected R9 pin 1 to Net-(Z2-UNBALANCED_PORT).
+Changed REF** reference designator to BT1.
+Added TP2 (footprint 'TestPoint:TestPoint_Pad_D1.0mm').
+Changed REF** reference designator to TP2.
+Changed TP2 value from TestPoint_Pad_D1.0mm to VBAT.
+Updated TP2 symbol association from  to /e5f7b340-0112-4ec2-89fc-ceb368096a36.
+Updated TP2 fields.
+Updated TP2 sheetname to '/'.
+Updated TP2 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated TP2 footprint filters to 'Pin* Test*'.
+Removed TP2 'exclude from BOM' fabrication attribute.
+Connected TP2 pin 1 to VBAT.
+Changed BT1 value from BatteryHolder_LINX_BAT-HLD-012-SMT to CR1632.
+Added TP3 (footprint 'TestPoint:TestPoint_Pad_D1.0mm').
+Changed REF** reference designator to TP3.
+Changed TP3 value from TestPoint_Pad_D1.0mm to JTAG_TMSC.
+Updated TP3 symbol association from  to /7770899b-3e75-4a2c-b1b5-1f34cfaa3e4f.
+Updated TP3 fields.
+Updated TP3 sheetname to '/'.
+Updated TP3 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated TP3 footprint filters to 'Pin* Test*'.
+Removed TP3 'exclude from BOM' fabrication attribute.
+Add net /JTAG_TMSC.
+Connected TP3 pin 1 to /JTAG_TMSC.
+Updated BT1 symbol association from  to /2fbc6b85-28f3-4ef5-860a-a8cdb7b9f3c9.
+Added TP4 (footprint 'TestPoint:TestPoint_Pad_D1.0mm').
+Changed REF** reference designator to TP4.
+Changed TP4 value from TestPoint_Pad_D1.0mm to JTAG_TCKC.
+Updated TP4 symbol association from  to /8879ea57-6c47-498d-89b2-77bfc13be708.
+Updated TP4 fields.
+Updated TP4 sheetname to '/'.
+Updated TP4 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated TP4 footprint filters to 'Pin* Test*'.
+Removed TP4 'exclude from BOM' fabrication attribute.
+Add net /JTAG_TCKC.
+Connected TP4 pin 1 to /JTAG_TCKC.
+Updated BT1 fields.
+Added TP5 (footprint 'TestPoint:TestPoint_Pad_D1.0mm').
+Changed REF** reference designator to TP5.
+Changed TP5 value from TestPoint_Pad_D1.0mm to GND.
+Updated TP5 symbol association from  to /e45aab21-9621-4ee2-8f23-b057fc42c000.
+Updated TP5 fields.
+Updated TP5 sheetname to '/'.
+Updated TP5 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated TP5 footprint filters to 'Pin* Test*'.
+Removed TP5 'exclude from BOM' fabrication attribute.
+Connected TP5 pin 1 to GND.
+Updated BT1 sheetname to '/'.
+Added TP6 (footprint 'Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm').
+Changed REF** reference designator to TP6.
+Changed TP6 value from SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm to TP.
+Updated TP6 symbol association from  to /bbe8a467-d09a-4734-b87e-bbdc575d2b3e.
+Updated TP6 fields.
+Updated TP6 sheetname to '/'.
+Updated TP6 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated TP6 footprint filters to 'Pin* Test*'.
+Removed TP6 'exclude from BOM' fabrication attribute.
+Connected TP6 pin 1 to Net-(R2-Pad1).
+Connected TP6 pin 2 to Net-(R2-Pad1).
+Updated BT1 sheetfile to 'sMouthguard01.kicad_sch'.
+Added U1 (footprint 'ICM-20649:QFN40P300X300X95-24N').
+Changed REF** reference designator to U1.
+Changed U1 value from QFN40P300X300X95-24N to ICM-20649.
+Updated U1 symbol association from  to /b61b7139-8933-4f2c-944c-90ead65927c3.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'sMouthguard01.kicad_sch'.
+Connected U1 pin 9 to GND.
+Add net unconnected-(U1-AUX_DA-Pad21).
+Connected U1 pin 21 to unconnected-(U1-AUX_DA-Pad21).
+Connected U1 pin 23 to /I2C_SCL.
+Connected U1 pin 8 to VBAT.
+Add net unconnected-(U1-AUX_CL-Pad7).
+Connected U1 pin 7 to unconnected-(U1-AUX_CL-Pad7).
+Connected U1 pin 11 to GND.
+Connected U1 pin 24 to /I2C_SDA.
+Connected U1 pin 13 to VBAT.
+Connected U1 pin 18 to GND.
+Add net /INT2.
+Connected U1 pin 19 to /INT2.
+Add net GND.
+Add net /INT1.
+Connected U1 pin 12 to /INT1.
+Connected U1 pin 20 to GND.
+Connected U1 pin 22 to VBAT.
+Connected U1 pin 10 to Net-(U1-REGOUT).
+Connected BT1 pin 2 to GND.
+Added U3 (footprint 'Package_TO_SOT_SMD:SOT-363_SC-70-6').
+Changed REF** reference designator to U3.
+Changed U3 value from SOT-363_SC-70-6 to LM66100DCK.
+Updated U3 symbol association from  to /48908c0c-0d5a-495c-825e-390b80239b7d.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Updated U3 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated U3 footprint filters to '*SC?70*'.
+Connected U3 pin 3 to Net-(U3-VIN).
+Connected U3 pin 1 to Net-(U3-VIN).
+Connected U3 pin 2 to GND.
+Add net unconnected-(U3-ST-Pad5).
+Connected U3 pin 5 to unconnected-(U3-ST-Pad5).
+Add net unconnected-(U3-NC-Pad4).
+Connected U3 pin 4 to unconnected-(U3-NC-Pad4).
+Connected U3 pin 6 to Net-(U3-VOUT).
+Add net Net-(BT1-+).
+Added U4 (footprint 'CC2640R2FRSMR:QFN40P400X400X100-33N').
+Changed REF** reference designator to U4.
+Changed U4 value from QFN40P400X400X100-33N to CC2640R2FRSMR.
+Updated U4 symbol association from  to /fd4b1980-201e-42e4-ba6f-42be0f2f474d.
+Updated U4 fields.
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'sMouthguard01.kicad_sch'.
+Connected U4 pin 29 to GND.
+Connected U4 pin 32 to VDDR.
+Add net unconnected-(U4-DIO_4-Pad16).
+Connected U4 pin 16 to unconnected-(U4-DIO_4-Pad16).
+Connected U4 pin 11 to VBAT.
+Connected U4 pin 19 to 3.0V.
+Connected U4 pin 22 to Net-(U4-DIO_5).
+Connected U4 pin 30 to Net-(U4-X24M_N).
+Connected U4 pin 14 to /JTAG_TCKC.
+Connected U4 pin 33_3 to GND.
+Connected U4 pin 33 to GND.
+Connected U4 pin 12 to Net-(U4-DCOUPL).
+Connected U4 pin 28 to VDDR.
+Connected U4 pin 18 to Net-(U4-DCDC_SW).
+Add net unconnected-(U4-DIO_7-Pad24).
+Connected U4 pin 24 to unconnected-(U4-DIO_7-Pad24).
+Connected U4 pin 6 to Net-(U4-X32K_Q2).
+Add net unconnected-(U4-RX_TX-Pad4).
+Connected U4 pin 4 to unconnected-(U4-RX_TX-Pad4).
+Connected U4 pin 31 to Net-(U4-X24M_P).
+Connected U4 pin 33_1 to GND.
+Connected U4 pin 20 to GND.
+Connected U4 pin 17 to GND.
+Add net unconnected-(U4-DIO_9-Pad26).
+Connected U4 pin 26 to unconnected-(U4-DIO_9-Pad26).
+Connected U4 pin 21 to Net-(U4-~{RESET_N}).
+Connected U4 pin 13 to /JTAG_TMSC.
+Connected U4 pin 33_2 to GND.
+Connected U4 pin 10 to /INT1.
+Connected U4 pin 7 to GND.
+Connected U4 pin 27 to VBAT.
+Add net unconnected-(U4-DIO_8-Pad25).
+Connected U4 pin 25 to unconnected-(U4-DIO_8-Pad25).
+Add net /RF_N.
+Connected U4 pin 1 to /RF_N.
+Connected U4 pin 5 to Net-(U4-X32K_Q1).
+Connected U4 pin 15 to /INT2.
+Connected U4 pin 3 to GND.
+Add net unconnected-(U4-DIO_0-Pad8).
+Connected U4 pin 8 to unconnected-(U4-DIO_0-Pad8).
+Add net unconnected-(U4-DIO_1-Pad9).
+Connected U4 pin 9 to unconnected-(U4-DIO_1-Pad9).
+Connected U4 pin 2 to /RF_N.
+Connected U4 pin 23 to Net-(U4-DIO_6).
+Connected U4 pin 33_5 to GND.
+Connected U4 pin 33_4 to GND.
+Connected BT1 pin 1 to Net-(BT1-+).
+Added Y3 (footprint 'Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm').
+Changed REF** reference designator to Y3.
+Changed Y3 value from Crystal_SMD_2016-4Pin_2.0x1.6mm to 32.768 kHz.
+Updated Y3 symbol association from  to /50ed677b-8dd7-4e0e-8c2b-849ca57a1fcd.
+Updated Y3 fields.
+Updated Y3 sheetname to '/'.
+Updated Y3 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated Y3 footprint filters to 'Crystal*'.
+Connected Y3 pin 1 to Net-(U4-X32K_Q1).
+Connected Y3 pin 3 to Net-(U4-X32K_Q2).
+Connected Y3 pin 2 to GND.
+Connected Y3 pin 4 to GND.
+Connected BT1 pin 1 to Net-(BT1-+).
+Added Y4 (footprint 'Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm').
+Changed REF** reference designator to Y4.
+Changed Y4 value from Crystal_SMD_2016-4Pin_2.0x1.6mm to 24 MHz.
+Updated Y4 symbol association from  to /adf62f6b-1235-4b02-8f1c-34e3589d140f.
+Updated Y4 fields.
+Updated Y4 sheetname to '/'.
+Updated Y4 sheetfile to 'sMouthguard01.kicad_sch'.
+Updated Y4 footprint filters to 'Crystal*'.
+Connected Y4 pin 1 to Net-(U4-X24M_N).
+Connected Y4 pin 2 to Net-(U4-X24M_P).
+Added BT2 (footprint 'Battery:BatteryHolder_LINX_BAT-HLD-012-SMT').
+Added Z2 (footprint '2450BM14G0011T:BALUN_2450BM14G0011T').
+Changed REF** reference designator to Z2.
+Changed Z2 value from BALUN_2450BM14G0011T to 2450BM14G0011T.
+Updated Z2 symbol association from  to /7e4dd3e6-620d-4ac9-963a-adaab10e146b.
+Updated Z2 fields.
+Updated Z2 sheetname to '/'.
+Updated Z2 sheetfile to 'sMouthguard01.kicad_sch'.
+Connected Z2 pin 3 to /RF_N.
+Connected Z2 pin 5 to GND.
+Add net unconnected-(Z2-NC-Pad2).
+Connected Z2 pin 2 to unconnected-(Z2-NC-Pad2).
+Connected Z2 pin 1 to Net-(Z2-UNBALANCED_PORT).
+Connected Z2 pin 4 to /RF_N.
+Connected Z2 pin 6 to GND.
+
+
+Warning: No net found for component U1 pad 16 (no pin 16 in symbol).
+Warning: No net found for component U1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component E2 pad 2 (no pin 2 in symbol).
+Warning: No net found for component Y4 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U1 pad 17 (no pin 17 in symbol).
+Warning: No net found for component U1 pad 15 (no pin 15 in symbol).
+Warning: No net found for component Y4 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U1 pad 1 (no pin 1 in symbol).
+Warning: No net found for component U1 pad 2 (no pin 2 in symbol).
+Warning: No net found for component U1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component U1 pad 14 (no pin 14 in symbol).
+Warning: No net found for component U1 pad 6 (no pin 6 in symbol).
+
+
+Info: Total warnings: 13, errors: 0.
